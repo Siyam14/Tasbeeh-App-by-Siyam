@@ -1,2 +1,25 @@
-# Tasbeeh-App-by-Siyam
-Tasbih App is a simple and elegant digital counter for daily dhikr. Users can easily start counting with the Start button, reset to zero, or undo the last count. With a clean design and smooth functionality, it’s user-friendly and supports both English and Bangla.
+
+Tasbeeh (Digital Counter)
+
+A simple and elegant **digital Tasbih counter** for daily dhikr. Supports English and Bangla with a clean UI and easy controls.
+
+---
+
+📱 Features
+- **Start Counting**: Tap the **Start** button to begin counting dhikr.
+- **Reset Count**: Instantly reset the counter to zero.
+- **Undo Last Count**: Revert the last increment.
+- **Bangla & English Support**: Interface available in both languages.
+- **Minimal Design**: Lightweight and easy-to-use UI.
+
+---
+
+🛠 Tech Stack
+Language: Java
+
+IDE: Android Studio
+
+Platform: Android
+
+UI Design: XML-based layout with vector graphics
+
